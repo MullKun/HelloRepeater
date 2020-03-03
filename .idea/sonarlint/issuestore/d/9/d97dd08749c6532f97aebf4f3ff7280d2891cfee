@@ -1,0 +1,8 @@
+
+ksquid:S2445"H"out" is a method parameter, and should not be used for synchronization.(º›ÕÈùÿÿÿÿ8íêş‰.
+nsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ñÊş‰.
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(÷ó¯·8çä‡ş‰.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8ñÊş‰.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬º”İ8íêş‰.
